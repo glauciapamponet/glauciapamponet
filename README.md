@@ -13,10 +13,10 @@
 
 <br>
 
-- 🏫 Estudante do curso de  [Sistemas de Informação](https://each.uspnet.usp.br/si/) na [Escola de Artes, Ciencias e Humanidades](https://each.uspnet.usp.br) da [Universidade de São Paulo - USP](https://www5.usp.br).
-- 📊 Ex-aluna de Iniciação Cientifica em Process Mining no [Process Mining Group @USP](http://processmining.each.webhostusp.sti.usp.br/index.php/tag/online-process-mining/)
+- 🏫 Formada no curso de  [Sistemas de Informação](https://each.uspnet.usp.br/si/) na [Escola de Artes, Ciencias e Humanidades](https://each.uspnet.usp.br) da [Universidade de São Paulo - USP](https://www5.usp.br).
+- 📊 Ex-membra do [Process Mining Group @USP](http://processmining.each.webhostusp.sti.usp.br/index.php/tag/online-process-mining/)
 - 👩‍💻 Entusiasta e aprendiz iniciante em Data Science, Analytics e Data Engeneering.
-- 👩‍🎓 Frequentemente estudando Programação Backend em Java com SpringBoot.
+- 👩‍🎓 Frequentemente estudando Processamento de Linguagem Natural
 - 👩‍💼 Detalhamento de meus conhecimentos [aqui](https://drive.google.com/file/d/1UB_wtdmEXhIuIsMei5Lq8x9zPv8KRVKU/view?usp=drive_link).
 <br><br>
 
