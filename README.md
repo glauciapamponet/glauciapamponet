@@ -88,6 +88,8 @@
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
     &emsp;
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></a>
+    &emsp;
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 </p>
 
 <br>
@@ -95,6 +97,10 @@
  ### <picture> <img src = "https://www.zirous.com/wp-content/uploads/2019/11/Machine-Learning-Gif.gif" width = 50px>  </picture> Data Science and ML Tools
  
 <p align="center">
+  &emsp;
+  <a href="#"><img alt="PySpark" src="https://img.shields.io/badge/PySpark-orange?style=for-the-badge&logo=PySpark&logoColor=black"></a>
+  &emsp;
+  <a href="#"><img alt="PySpark" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-navy?style=for-the-badge&logo=Pandas"></a>
   &emsp;
@@ -115,6 +121,10 @@
     <a href="#"><img alt="Igraph" src="https://img.shields.io/badge/Igraph-red?style=for-the-badge&logo=igraph"></a>
   &emsp;
     <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=Plotly"></a>
+  &emsp;
+    <a href="#"><img alt="MlFlow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=fff"></a>
+  &emsp; 
+  <a href="#"><img alt="MlFlow" src="https://img.shields.io/badge/Microsoft_Fabric-35ba83?style=for-the-badge&logo=Microsoft-Fabric&logoColor=fff"></a>
 </p>
 
 <br> 
