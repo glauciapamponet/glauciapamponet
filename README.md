@@ -17,7 +17,7 @@
 - 📊 Ex-membra do [Process Mining Group @USP](http://processmining.each.webhostusp.sti.usp.br/index.php/tag/online-process-mining/)
 - 👩‍💻 Entusiasta e aprendiz iniciante em Data Science, Analytics e Data Engeneering.
 - 👩‍🎓 Frequentemente estudando Processamento de Linguagem Natural
-- 👩‍💼 Detalhamento de meus conhecimentos [aqui](https://drive.google.com/file/d/18a_3Fn2MRaUG4gG1_95yoE4gUpyskj_Y/view?usp=sharing).
+- 👩‍💼 Detalhamento de meus conhecimentos [aqui](https://drive.google.com/file/d/1lie0RSTAenucazz3ZG67FCS_Te0caNIr/view?usp=sharing).
 <br><br>
 
 ## 🛠️ My Skills
